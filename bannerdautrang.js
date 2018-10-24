@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2M6Dfue' target='_blank'><img src='https://2.bp.blogspot.com/-Avmdq26CKes/W2V8WZMtOpI/AAAAAAAACAE/Fa1bil2_aoMgzAgYTIniOyU04-h9hZMygCLcBGAs/s640/Thiet-ke-noi-that.jpg' width='500px'/><br/>Thiết kế nội thất đẹp quận 1</a>. Hỗ trơ trực tuyến 0947398385. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2M6Dfue' target='_blank'><img src='https://2.bp.blogspot.com/-Avmdq26CKes/W2V8WZMtOpI/AAAAAAAACAE/Fa1bil2_aoMgzAgYTIniOyU04-h9hZMygCLcBGAs/s640/thiet-ke-noi-that.jpg' width='500px'/><br/>THIẾT KẾ THI CÔNG TRẦN HUỲNH</a>. Hotline 0909 059 233. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
