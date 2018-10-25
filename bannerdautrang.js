@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2M6Dfue' target='_blank'><img src='https://2.bp.blogspot.com/-Avmdq26CKes/W2V8WZMtOpI/AAAAAAAACAE/Fa1bil2_aoMgzAgYTIniOyU04-h9hZMygCLcBGAs/s640/thiet-ke-noi-that.jpg' width='500px'/><br/>NỘI THẤT TRẦN HUỲNH</a>. Hotline 0909059233. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2Je1NO3' target='_blank'><img src='https://2.bp.blogspot.com/-Avmdq26CKes/W2V8WZMtOpI/AAAAAAAACAE/Fa1bil2_aoMgzAgYTIniOyU04-h9hZMygCLcBGAs/s640/thiet-ke-noi-that.jpg' width='500px'/><br/>NỘI THẤT TRẦN HUỲNH</a>. Hotline 0909059233. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
